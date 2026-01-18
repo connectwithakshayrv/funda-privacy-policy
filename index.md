@@ -1,8 +1,8 @@
-# Privacy Policy for Fun Da
+# Privacy Policy for Fun DA
 
 **Effective Date:** 17 January 2026
 
-Fun Da respects your privacy.
+Fun DA respects your privacy.
 
 Fun Da is a simple, offline app designed for interactive fun and curiosity.  
 We do **not collect, store, or share** any personal information.
@@ -38,4 +38,4 @@ If this Privacy Policy changes, the updated version will be published on this pa
 
 If you have any questions or concerns about this Privacy Policy, you may contact the developer at:
 
-📧 **your-email@example.com**
+📧 connectwithakshayrv@gmail.com
